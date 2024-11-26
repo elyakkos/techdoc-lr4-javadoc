@@ -1,1 +1,0 @@
-# techdoc-lr4-javadoc
